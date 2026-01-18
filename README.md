@@ -1,2 +1,3 @@
 # lakra-demo
 This is my first git repository
+Author - Sanjukta Lakra
