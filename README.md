@@ -1,4 +1,4 @@
 # lakra-demo
 This is my first Git Repository
 <br>
-Author - Sanjukta Lakra
+Author - Sanjukta Lakra (Lakra Demo)
